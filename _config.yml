@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lixu Jin's Homepage"
-subtitle                 : "Atmospheric Modeler / Atmospheric Chemist"
+title                    : "Lu Tan's Homepage"
+subtitle                 : "Atmospheric Chemist"
 title_separator          : "-"
-name                     : &name "Lixu Jin"
-description              : &description "study air quality and wildfires/modeller/Ph.D. candidate at the UM"
-url                      : https://jinlx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lu Tan"
+description              : &description "study air quality/Ph.D. candidate at the UM"
+url                      : https://lutan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jinlx/jinlx.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
