@@ -5,9 +5,7 @@ author_profile: true
 ---
 
 ## Overall
-My research aims to improve how air-quality and chemical transport models (CTMs) represent wildfire smoke—from emissions to chemistry to community exposure. My Ph.D. work at the University of Montana (Atmospheric Chemistry Observations and Modeling Group) focused on constraining wildfire VOC emissions, diagnosing smoke photochemistry using aircraft and ground observations, and translating multi-day aged smoke episodes into health-relevant exposure metrics. I am now a postdoctoral researcher at Rutgers University in Prof. Xiaomeng Jin’s group, extending this work toward chemically informed exposure indicators and model–measurement frameworks that connect smoke composition to public-health outcomes.
-
-A central theme across my projects is building a **fire-adapted modeling framework (primarily within GEOS-Chem)** that is strongly constrained by observations (aircraft campaigns, ground networks, targeted measurements, and satellite products where appropriate). The goal is to move beyond “PM₂.₅-only” wildfire smoke characterization and toward **mechanistic understanding and actionable metrics** that better reflect toxicity and oxidant formation.
+My research aims to improve how ?. My Ph.D. work at the University of Montana (Atmospheric Chemistry Observations and Modeling Group) focused on improving PTR-MS for VOC quantification and emissions of prescribed burns.
 
 **Representative research questions:**
 - How can wildfire emissions and smoke chemistry be represented more accurately in CTMs to reduce biases in simulated air quality?
