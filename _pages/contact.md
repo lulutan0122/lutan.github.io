@@ -4,13 +4,13 @@ permalink: /contact/
 author_profile: true
 ---
 * Email
-    * lixu.jin (at) umconnect.umt.edu
-    * jinlx15 (at) outlook.com
+    * lu.tan@umontana.edu
+    * lulutan0122@gmail.com
 
 * Office
-    * 301 Chemistry building
+    * 302 Chemistry building
 
 * Campus mailing address 
-    * Lixu Jin
+    * Lu Tan
     * 32 Campus Drive
     * Missoula, MT 59812
