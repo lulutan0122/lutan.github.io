@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Overall
-My research aims to improve how ?. My Ph.D. work at the University of Montana (Atmospheric Chemistry Observations and Modeling Group) focused on improving PTR-MS for VOC quantification and emissions of prescribed burns.
+My Ph.D. work at the University of Montana (Atmospheric Chemistry Observations and Modeling Group) focused on improving PTR-MS for VOC quantification and emissions of prescribed burns.
 **quantitative characterization of volatile organic compounds (VOCs) in the atmosphere**, with an emphasis on improving measurement accuracy, source attribution, and interpretation of VOC observations in urban environments and wildfire-influenced regions.
 
 **Representative research questions:**
