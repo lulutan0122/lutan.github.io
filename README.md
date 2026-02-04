@@ -1,4 +1,4 @@
-This is a github page for Lixu Jin. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md. Later, the forked codes are customized by Lixu Jin, the configuration is provided below.
+This is a github page for. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md. Later, the forked codes are customized by Lixu Jin, the configuration is provided below.
 
 A quick tour for the design logics (just in case if anyone wants to rebuild the wheel):
 1) ./_data/navigation: sector navigator (e.g., research, publication, and presentations)
