@@ -17,12 +17,9 @@ author_profile: true
 
 <ins>Experience</ins>
 ======
-* 2019–2025: Graduate Research Assistant (Ph.D.)
+* 2022-present: Graduate Teaching/Research Assistant
     * University of Montana, Department of Chemistry and Biochemistry
     * Supervisor: Dr. Lu Hu
-* 2018 Fall: Undergraduate Visiting Researcher
-    * University of Washington Bothell, Physical Sciences Division
-    * Supervisor: Dr. Dan Jaffe
 
 <ins>Honors and Awards</ins>
 ======
