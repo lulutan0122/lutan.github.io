@@ -4,21 +4,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-###### *Updated: 2026-01-11*
+###### *Updated: 2026-02-05*
 
-## Accepted
-- **Jin, L.**, *et al.* (accepted): Ozone Photochemistry in Fresh Biomass Burning Smoke. *Science Advances*.
+## In preparation
 
-## Submitted / In Review
-- **Jin, L.**, *et al.* (submitted): Characterizing emissions, chemistry, and health impacts of aged wildfire smoke in a western US city. *Atmospheric Chemistry and Physics*. [[paper](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-114/)]; [[data](https://zenodo.org/records/18209325)]; [[code](https://github.com/jinlx/Aged-wildfire-smoke-emission-chemistry-health)]
+- Tan et al., Measuring benzyl alcohol, carbitol, i-propyl alcohol, linalool, and α-terpineol by PTR-ToF-MS, in preparation.
+- Tan et al., Characterization of emissions from prescribed fires in Western U.S. forests, in preparation.
 
-## Peer-reviewed
-- **Jin, L.**, *et al.* (2023): Constraining emissions of volatile organic compounds from western US wildfires with WE-CAN and FIREX-AQ airborne observations. *Atmospheric Chemistry and Physics*, 23, 5969–5991. [[paper](https://doi.org/10.5194/acp-23-5969-2023)]; [[data](https://doi.org/10.5281/zenodo.15021583)]; [[code](https://github.com/jinlx/Western-US-emission-packages)]
+## Peer-reviewed Journal Articles
 
-- Permar, W., **Jin, L.**, *et al.* (2023): Atmospheric OH reactivity in the western United States determined from comprehensive gas-phase measurements during WE-CAN. *Environmental Science: Atmospheres*. [[paper](https://doi.org/10.1039/D2EA00063F)]
+# Accepted
+- Cope, E., Ketcherside, D., Jin, L., **Tan, L.**, Mansfield, M., Jones, C., Lyman, S., Jaffe, D., and Hu, L., Sources of atmospheric volatile organic compounds during the Salt Lake regional Smoke, Ozone and Aerosol Study (SAMOZA) 2022, Journal of Geophysical Research: Atmospheres, 129, e2024JD041640.
+- Melles, T., Lawrence, A., Ksaibati, A., Zang, C., Dearden, A., Coggon, M., Richard, K., Ketcherside, D., **Tan, L.**, Stockwell, C., Luo, H., Akbarzadeh, M., Xu, L., Middlebrook, A., Piasecki, A., Garofalo, L., Warneke, C., Hu, L., Farmer, D., Jathar, S., Willis, M., Impact of molecular structure on the OH-initiated oxidation mechanism of 2-(2-ethoxyethoxy)ethanol and resulting aerosol formation, ACS Earth and Space Chemistry,.
 
-- Permar, W., Wielgasz, C., **Jin, L.**, *et al.* (2023): Assessing formic and acetic acid emissions and chemistry in western US wildfire smoke: implications for atmospheric modeling. *Environmental Science: Atmospheres*, 3(11), 1620-1641.[[paper](https://doi.org/10.1039/D3EA00098B)]
-
-- Cope, E. M., Ketcherside, D. T., **Jin, L.**, *et al.* (2024): Sources of atmospheric volatile organic compounds during the Salt Lake regional smoke, ozone and aerosol study (SAMOZA) 2022. *Journal of Geophysical Research: Atmospheres*, 129(17), e2024JD041640. [[paper](https://doi.org/10.1029/2024JD041640)]
-
-- Jaffe, D., *et al.* (including **Jin, L.**) (2024): Key Results from the Salt Lake regional Smoke, Ozone and Aerosol Study (SAMOZA). *Journal of the Air & Waste Management Association*. [[paper](https://doi.org/10.1080/10962247.2024.2301956)]
+# Submitted / In Review
+- •	Jin, L., **Tan, L.**, Ketcherside, D. T., Selimovic, V., Nauman, K., Yokelson, R. J., and Hu, L.: Characterizing emissions, chemistry, and health impacts of aged wildfire smoke in a western US city, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2026-114, 2026.
