@@ -4,33 +4,65 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Manuscripts in Preparation</h2>
 
-{% include base_path %}
+<p>
+<strong>Tan, L.</strong>, Ketcherside, D. T., and Hu, L.<br>
+<strong>Measuring benzyl alcohol, carbitol, i-propyl alcohol, linalool, and α-terpineol by PTR-ToF-MS.</strong><br>
+<em>In preparation.</em>
+</p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p>
+<strong>Tan, L.</strong>, Permar, W., Knudsen, J., Cope, E., Tepsa Jacob, V., Hoff, V., Yokelson, R. J., Seielstad, C., Queen, L., and Hu, L.<br>
+<strong>Characterization of emissions from prescribed fires in Western U.S. forests with a mobile laboratory measurement.</strong><br>
+<em>In preparation.</em>
+</p>
+
+
+<h2>Peer-Reviewed Publications</h2>
+
+<p>
+Cope, E., Ketcherside, D., Jin, L., <strong>Tan, L.</strong>, Mansfield, M., Jones, C., Lyman, S., Jaffe, D., and Hu, L.<br>
+<strong>Sources of atmospheric volatile organic compounds during the Salt Lake regional Smoke, Ozone and Aerosol Study (SAMOZA) 2022.</strong><br>
+<em>Journal of Geophysical Research: Atmospheres</em>, 129, e2024JD041640.
+</p>
+
+<p>
+Melles, T., Lawrence, A., Ksaibati, A., Zang, C., Dearden, A., Coggon, M., Richard, K., Ketcherside, D., <strong>Tan, L.</strong>, Stockwell, C., Luo, H., Akbarzadeh, M., Xu, L., Middlebrook, A., Piasecki, A., Garofalo, L., Warneke, C., Hu, L., Farmer, D., Jathar, S., and Willis, M.<br>
+<strong>Impact of molecular structure on the OH-initiated oxidation mechanism of 2-(2-ethoxyethoxy)ethanol and resulting aerosol formation.</strong><br>
+<em>ACS Earth and Space Chemistry</em>.
+</p>
+
+<p>
+Melles, T. R., Lawrence, A. V., Ksaibati, A., Zang, C. L., Dearden, A., Coggon, M. M., Richard, K. L., Ketcherside, D., <strong>Tan, L.</strong>, Stockwell, C. E., Luo, H., Akbarzadeh, M., Xu, L., Middlebrook, A. M., Garofalo, L. A., Piasecki, A., Warneke, C., Hu, L., Farmer, D. K., Jathar, S. H., and Willis, M. D.<br>
+<strong>Alkyl substitution alters glycol diether peroxy radical fate and suppresses secondary organic aerosol formation.</strong><br>
+<em>Environmental Science: Atmospheres</em>, 2026.<br>
+<a href="https://doi.org/10.1039/d6ea00070c" target="_blank">DOI</a>
+</p>
+
+<p>
+Jin, L., <strong>Tan, L.</strong>, Ketcherside, D. T., Selimovic, V., Nauman, K., Yokelson, R. J., and Hu, L.<br>
+<strong>Characterizing emissions, chemistry, and health impacts of aged wildfire smoke in a western US city.</strong><br>
+<em>Atmospheric Chemistry and Physics</em>, 26, 11047–11066, 2026.<br>
+<a href="https://doi.org/10.5194/acp-26-11047-2026" target="_blank">DOI</a>
+</p>
+
+
+<h2>Co-authored Manuscripts in Preparation</h2>
+
+<p>
+<strong>Highly-oxygenated Ring-retaining and Ring-opening Products Drive Aerosol Formation from the OH-initiated Oxidation of Benzyl Alcohol.</strong>
+</p>
+
+
+
 
 
 
