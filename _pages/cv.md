@@ -11,6 +11,7 @@ redirect_from:
 {% include base_path %}
 
 [📄 Download Full CV (PDF)]({{ base_path }}/files/Lu_Tan_CV.pdf)
+
 ---
 
 Education
