@@ -7,15 +7,12 @@ redirect_from:
   - /resume
 ---
 
-
-
----
+### Download My CV
 
 [📄 Download Full CV (PDF)]({{ base_path }}/files/Lu_Tan_CV.pdf)
 
-{% include base_path %}
-
 ---
+{% include base_path %}
 
 Education
 ======
