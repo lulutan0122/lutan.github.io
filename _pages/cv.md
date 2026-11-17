@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ### Download My CV
+{% include base_path %}
 
 [📄 Download Full CV (PDF)]({{ base_path }}/files/Lu_Tan_CV.pdf)
 
 ---
-{% include base_path %}
 
 Education
 ======
