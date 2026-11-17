@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-### Download My CV
+---
 {% include base_path %}
 
 [📄 Download Full CV (PDF)](/files/Lu_Tan_CV.pdf)
